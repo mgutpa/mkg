@@ -10,7 +10,7 @@ public class PersonConfiguration {
 	
 	@Bean
 	public Person getAbc() {
-		return new Person("Mantu", "Kumar", "Gupta");
+		return new Person("Man2", "Kumar", "Gupta");
 	}
 
 }
